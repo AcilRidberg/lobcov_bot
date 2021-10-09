@@ -141,4 +141,7 @@ cython_debug/
 .idea/
 
 # local storage
-.media/
+static/
+
+#test
+probe/
