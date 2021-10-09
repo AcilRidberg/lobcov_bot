@@ -141,7 +141,7 @@ cython_debug/
 .idea/
 
 # local storage
-static/
+handlers/static/
 
 #test
 probe/
